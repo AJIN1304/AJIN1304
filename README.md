@@ -1,5 +1,5 @@
 ![logo](https://github.com/AJIN1304/AJIN1304/blob/main/wp9641838.webp)
-### Hi there 👋
+### 
 
 <!--
 **AJIN1304/AJIN1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
